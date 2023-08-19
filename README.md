@@ -1,3 +1,3 @@
-# Parch Linux iso template
+# Parch Linux Jade
 
-## Use this template for making releases
+## Parch Linux net installer
