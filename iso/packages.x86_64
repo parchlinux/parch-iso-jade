@@ -135,41 +135,33 @@ zsh
 archlinux-keyring
 openssl-1.1
 openssl
+boost
 
 #Desktop
-plasma
 sddm
 xorg
-bash-completion
+mate
+mate-extras
 networkmanager
-plasma-nm
-plasma-pa
-breeze-gtk
-hack-nerd-fonts
-iranian-fonts
-sddm-theme-astronaut
 
 #systemutils
 btop
-konsole
-kate
-dolphin
 xdg-user-dirs
-spectacle
 packagekit-qt5
 neofetch-git
-ttf-dejavu
+fastfetch
 android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
 gparted
-jade
-jade-gui
 
 #parchlinux other stuff
+calamares-net
+calamares-parch-net
+parch-welcome
 os-prober
 paru
 parch-branding
 parch-pacman
 parch-emoji-ios
-parch-os-wallpapers
+parch-wallpapers
