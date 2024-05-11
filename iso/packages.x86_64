@@ -141,7 +141,7 @@ boost
 sddm
 xorg
 mate
-mate-extras
+mate-extra
 networkmanager
 
 #systemutils
